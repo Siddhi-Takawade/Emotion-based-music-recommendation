@@ -8,3 +8,4 @@ collection
 streamlit_webrtc
 mediapipe
 av
+protobuf==3.9.2
