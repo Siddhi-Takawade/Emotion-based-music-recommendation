@@ -1,12 +1,16 @@
-streamlit
-numpy
-pandas
-opencv-python
-tensorflow
-keras
-collection
-streamlit_webrtc
-mediapipe
-av
+streamlit==1.13.0
+numpy==1.24.1
+pandas==1.5.2
+opencv-python==4.7.0.68
+tensorflow==2.11.0
+keras==2.11.0
+collection==0.1.6
+streamlit_webrtc==0.44.0
+mediapipe==0.9.0.1
+av==9.2.0
 protobuf==3.9.2
+certifi==2022.12.7
+google-auth==2.15.0
+google-auth-oauthlib==0.4.6	
+opencv-contrib-python==4.7.0.68
 
